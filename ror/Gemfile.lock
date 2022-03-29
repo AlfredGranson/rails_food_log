@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bulma-rails (0.9.3)
+      sassc (~> 2.0)
+    ffi (1.15.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  bulma-rails (~> 0.9.3)
+
+BUNDLED WITH
+   2.3.7
