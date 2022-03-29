@@ -1,4 +1,4 @@
-FROM ruby:2.7
+FROM ruby:3.1.1
 
 # Register Yarn package source.
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
